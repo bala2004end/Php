@@ -14,8 +14,8 @@
       rel="canonical"
       href="https://getbootstrap.com/docs/5.3/examples/album/"
     />
-    <script src="../assets/js/color-modes.js"></script>
-    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="Php/assets/js/color-modes.js"></script>
+    <link href="Php/assets/dist/css/bootstrap.min.css" rel="stylesheet" />
     <meta name="theme-color" content="#712cf9" />
     <style>
       .bd-placeholder-img {
@@ -692,7 +692,7 @@
       </div>
     </footer>
     <script
-      src="../assets/dist/js/bootstrap.bundle.min.js"
+      src="Php/assets/dist/js/bootstrap.bundle.min.js"
       class="astro-vvvwv3sm"
     ></script>
   </body>
