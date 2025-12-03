@@ -1,3 +1,5 @@
+<?php
+/*
 <!doctype html>
 <html lang="en" data-bs-theme="auto">
   <head>
@@ -697,3 +699,5 @@
     ></script>
   </body>
 </html>
+*/
+print(__DIR__);
