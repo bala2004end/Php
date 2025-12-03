@@ -700,4 +700,5 @@
   </body>
 </html>
 */
+echo "hi";
 print(__DIR__);
